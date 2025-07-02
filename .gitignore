@@ -1,0 +1,24 @@
+# Ignore compiled class files
+*.class
+
+# Ignore jar files
+*.jar
+
+# Ignore logs
+*.log
+
+# Ignore IDE files and folders
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
